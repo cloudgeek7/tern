@@ -1,7 +1,7 @@
 # Copyright (c) 2019-2021 VMware, Inc. All Rights Reserved.
 # SPDX-License-Identifier: BSD-2-Clause
 
-FROM debian:buster
+FROM debian:bullseye-20230208
 
 # Install fuse-overlayfs and Tern dependencies
 RUN apt-get update && \
