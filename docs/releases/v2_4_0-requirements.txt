@@ -110,7 +110,7 @@ regex==2020.11.13 \
     --hash=sha256:f7d29a6fc4760300f86ae329e3b6ca28ea9c20823df123a2ea8693e967b29917 \
     --hash=sha256:f8f295db00ef5f8bae530fc39af0b40486ca6068733fb860b42115052206466f
     # via -r requirements.in
-requests==2.25.1 \
+requests==2.31.0 \
     --hash=sha256:27973dd4a904a4f13b263a19c866c13b92a39ed1c964655f025f3f8d3d75b804 \
     --hash=sha256:c210084e36a42ae6b9219e00e48287def368a26d03a048ddad7bfee44f75871e
     # via
