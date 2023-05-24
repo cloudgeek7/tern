@@ -169,7 +169,7 @@ regex==2022.3.15 \
     --hash=sha256:f553a1190ae6cd26e553a79f6b6cfba7b8f304da2071052fa33469da075ea625 \
     --hash=sha256:fc8c7958d14e8270171b3d72792b609c057ec0fa17d507729835b5cff6b7f69a
     # via -r requirements.in
-requests==2.27.1 \
+requests==2.31.0 \
     --hash=sha256:68d7c56fd5a8999887728ef304a6d12edc7be74f1cfa47714fc8b414525c9a61 \
     --hash=sha256:f22fa1e554c9ddfd16e6e41ac79759e17be9e492b3587efa038054674760e72d
     # via
