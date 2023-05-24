@@ -126,7 +126,7 @@ regex==2021.3.17 \
     --hash=sha256:f5d0c921c99297354cecc5a416ee4280bd3f20fd81b9fb671ca6be71499c3fdf \
     --hash=sha256:f85d6f41e34f6a2d1607e312820971872944f1661a73d33e1e82d35ea3305e14
     # via -r requirements.in
-requests==2.25.1 \
+requests==2.31.0 \
     --hash=sha256:27973dd4a904a4f13b263a19c866c13b92a39ed1c964655f025f3f8d3d75b804 \
     --hash=sha256:c210084e36a42ae6b9219e00e48287def368a26d03a048ddad7bfee44f75871e
     # via
