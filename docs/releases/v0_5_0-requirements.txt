@@ -4,7 +4,7 @@
 #
 #    pip-compile --output-file=v0_5_0-requirements.txt
 #
-certifi==2019.6.16        # via requests
+certifi==2023.7.22        # via requests
 chardet==3.0.4            # via requests
 docker==4.0.2
 idna==2.8                 # via requests
