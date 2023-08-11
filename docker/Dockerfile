@@ -1,7 +1,7 @@
 # Copyright (c) 2019-2021 VMware, Inc. All Rights Reserved.
 # SPDX-License-Identifier: BSD-2-Clause
 
-FROM python:3.12.0a5-slim as base
+FROM python:3.12.0b4-slim as base
 
 FROM base as builder
 
