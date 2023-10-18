@@ -106,7 +106,7 @@ stevedore==3.2.2 \
     --hash=sha256:5e1ab03eaae06ef6ce23859402de785f08d97780ed774948ef16c4652c41bc62 \
     --hash=sha256:f845868b3a3a77a2489d226568abe7328b5c2d4f6a011cc759dfa99144a521f0 \
     # via -r requirements.in
-urllib3==1.26.5 \
+urllib3==1.26.18 \
     --hash=sha256:19188f96923873c92ccb987120ec4acaa12f0461fa9ce5d3d0772bc965a39e08 \
     --hash=sha256:d8ff90d979214d7b4f8ce956e80f4028fc6860e4431f731ea4a8c08f23f99473 \
     # via requests
