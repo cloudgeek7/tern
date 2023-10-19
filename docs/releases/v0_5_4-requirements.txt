@@ -11,5 +11,5 @@ idna==2.8                 # via requests
 pyyaml==5.1.2
 requests==2.22.0
 six==1.12.0               # via docker, websocket-client
-urllib3==1.25.3           # via requests
+urllib3==1.26.18           # via requests
 websocket-client==0.56.0  # via docker
